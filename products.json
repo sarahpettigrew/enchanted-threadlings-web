@@ -1,0 +1,37 @@
+[{
+  "name": "Baby Pine Dryad",
+  "category": "Plushies",
+  "image": "https://150791690.cdn6.editmysite.com/uploads/1/5/0/7/150791690/22PDT7DOHVJGWVGRL3GXWZC3.jpeg?width=2400&optimize=medium",
+  "description": "Description of plushie",
+  "createdOrder": 2,
+  "featuredOrder": 2
+
+},
+{
+  "name": "Forest Guardian",
+  "category": "Plushies",
+  "image": "https://150791690.cdn6.editmysite.com/uploads/1/5/0/7/150791690/CK4YAGDUXWF3C2EH4UZ4Y5LA.jpeg?width=2400&optimize=medium",
+  "description": "Description of plushie",
+  "createdOrder": 1,
+  "featuredOrder": 1
+
+},
+{
+  "name": "Flutterling",
+  "category": "Plushies",
+  "image": "https://f4c846b9b4ef99d4c700.cdn6.editmysite.com/uploads/b/f4c846b9b4ef99d4c70044d542afd55e5bc868493ac19c47f50ae562fd32be9d/IMG_2234_1785508191.jpeg?width=2400&optimize=medium",
+  "description": "Description of plushie",
+  "createdOrder": 4,
+  "featuredOrder":1
+
+},
+{
+  "name": "Crochet Hook",
+  "category": "Accessories",
+  "image": "",
+  "description": "Description of accessory",
+  "createdOrder": 3,
+  "featuredOrder": 99
+
+}
+]

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enchanted Threadlings</title>
+    <!-- Link external CSS stylesheet -->
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<nav>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="index.html">About</a></li>
+    <li><a href="index.html">Plushies</a></li>
+    <li><a href="index.html">Contact</a></li>
+  </ul>
+</nav>
+    <!-- Main visible webpage content goes here -->
+    <h1>Welcome to Enchanted Threadlings</h1>
+    
+    <select id="sort">
+    <option value="featured">Forest Favorites</option>
+    <option value="newest">Newest</option>
+    <option value="oldest">Oldest</option>
+    <option value="az">A-Z</option>
+    <option value="za">Z-A</option>
+    </select>
+
+    <button data-category="All" style="margin-left: 1vw;">All</button>
+    <button data-category="Accessories">Accessories</button>
+    <button data-category="Plushies">Plushies</button>
+    <input type="text" id="search" placeholder="Search the forest..."
+    >
+    <section id="product-gallery"></section>
+
+    <!-- Link external JavaScript file -->
+    <script src="app.js"></script>
+</body>
+</html>
