@@ -1,3 +1,6 @@
+body{
+  background-color: lightgreen;
+}
 ul {
   list-style-type: none;
   margin: 0;
@@ -23,11 +26,13 @@ ul li a:hover {
 }
 
 img {
-  max-height: 50%;
+  min-height: 20vw;
+  max-height: 20vw;
   display: block;
   margin-left: auto;
   margin-right: auto;
   max-width: 100%; 
+  border: 1px solid 
 }
 
 .product-card {
@@ -38,4 +43,5 @@ img {
   background-color: gray;
   padding: 1vw;
   margin: 1vw;
+  border-radius: 20px;
 }
