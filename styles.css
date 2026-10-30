@@ -1,17 +1,25 @@
+
+nav{
+  display: flex;
+}
 body{
   background-color: antiquewhite;
   width: 100%;
   margin: 0;
 }
+h1 {
+  margin-left: 3vw;
+}
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding-left: 20%;
   overflow: hidden;
   background-color: #9ba37b;
   width: 100%;
   display: flex;
   justify-content: space-evenly;
+  padding-right: 20%;
 }
 
 ul li {
@@ -55,8 +63,13 @@ ul li a:hover {
   padding-left: 2vw;
 }
 
+.filter-group{
+  margin-left: 3vw;
+}
 
 .product-gallery{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  padding-left: 2vw;
+  padding-right: 2vw;
 }
