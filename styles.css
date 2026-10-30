@@ -43,7 +43,7 @@ ul li a:hover {
   border-radius: 20px;
 }
 .card-text{
-  background-color: red;
+  background-color: purple;
   height: 40%;
   object-fit: contain;
 }
